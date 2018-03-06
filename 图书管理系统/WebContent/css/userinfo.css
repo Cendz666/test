@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+/*  用户信息模块样式     */
+table{
+	margin:0px auto;
+	width:1000px;
+}
+.td1{
+	text-align:right;
+	color:#545454;
+	width:200px;
+}
+.userinfo-item{
+	border:0px;
+	background-color:transparent;
+	font-size:20px;
+}
+#regeditTime{
+	border:0px;
+	background-color:transparent;
+	font-size:20px;
+}
+.item{
+	color:red;
+}

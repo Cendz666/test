@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+/*  登录、注册模块样式    */
+.logo{
+	float:left;
+	width:500px;
+	padding:0px;
+	margin:10px;
+}
+.frm{
+	position:relative;
+	top:100px;
+	float:left;
+	margin:10px;
+	font-size:20px;
+}
+.button{
+	position:relative;
+	left:100px;
+	width:120px;
+	margin:10px;
+}
+.item{
+	color:red;
+}

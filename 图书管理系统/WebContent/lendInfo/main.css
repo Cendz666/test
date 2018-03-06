@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+p.select{
+	text-align:center;
+	font-size:25px;
+}
+
+table.libtypeContent{
+	margin:0px auto;
+	width:1000px;
+	border:1px solid;
+	border-collapse:collapse;
+}
+td{
+	height:40px;
+	text-align:center;
+	border:1px solid;
+}
+#lendBook2{
+	position:relative;
+	left:1000px;
+	top:20px;
+}
